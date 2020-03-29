@@ -17,3 +17,7 @@ theme: solarized
 
 ## Keep going...
 
+# One more slide
+Some dummy text...
+
+## ...and some empty slide
